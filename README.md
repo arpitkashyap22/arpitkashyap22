@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Angular, React**
 
-- 📫 How to reach me **arpitkashyap@gmail.com**
+- 📫 How to reach me **arpitkashyap2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1npYWNUiSix5rYc0t3mCrhp5Q2eKBmpIB/view?usp=drivesdk](https://drive.google.com/file/d/1npYWNUiSix5rYc0t3mCrhp5Q2eKBmpIB/view?usp=drivesdk)
 
