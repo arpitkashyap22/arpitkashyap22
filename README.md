@@ -6,13 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kashyaparpit22" target="blank"><img src="https://img.shields.io/twitter/follow/kashyaparpit22?logo=twitter&style=for-the-badge" alt="kashyaparpit22" /></a> </p>
 
-- 🔭 I’m currently working on [AI powered Research Assistent](https://github.com/arpitkashyap22/Research-assistent-extension)
-
-- 🌱 I’m currently learning **Microservices and Use of AI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/arpitkashyap22?tab=repositories](https://github.com/arpitkashyap22?tab=repositories)
-
-- 💬 Ask me about **Java, Angular, React**
 
 - 📫 How to reach me **arpitkashyap2000@gmail.com**
 
